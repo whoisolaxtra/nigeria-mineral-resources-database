@@ -1,0 +1,23 @@
+{
+  "creators": [
+    {
+      "name": "whoisOlaxtra"
+    }
+  ],
+  "title": "Nigeria Mineral Resources Database",
+  "version": "1.0.1",
+  "description": "A structured compilation of mineral occurrence information represented in the Nigeria Geological Survey Agency (NGSA) Mineral Resources Map of Nigeria (2023). The database was manually extracted, transcribed, structured and documented from the NGSA 2023 source map. whoisOlaxtra is responsible for the database compilation, organisation, structuring, completeness review and documentation. The NGSA remains the source authority for the original mineral occurrence information represented on the 2023 map. This repository does not claim ownership of the original NGSA map, its cartographic design, or the underlying geological information.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Nigeria",
+    "mineral resources",
+    "mineral occurrences",
+    "geospatial data",
+    "GIS",
+    "geology",
+    "NGSA"
+  ],
+  "language": "eng"
+}
