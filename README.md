@@ -18,6 +18,16 @@ The current database contains **974 mineral occurrence records**.
 
 The principal database is provided as an Excel workbook.
 
+### Download the Database
+
+**Latest stable version: v1.0.0**
+
+[Download the Nigeria Mineral Resources Database](https://github.com/whoisolaxtra/nigeria-mineral-resources-database/blob/main/data/NIGERIA%20RESOURCES%20DATABASE.xlsx)
+
+**Source:** Nigeria Geological Survey Agency (NGSA), *Mineral Resources Map of Nigeria* (2023).
+
+**Compilation:** whoisOlaxtra.
+
 **Download the Database**
 
 **Latest stable version: v1.0.0**
