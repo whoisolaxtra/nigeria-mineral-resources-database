@@ -12,7 +12,7 @@ The resulting dataset is intended to support GIS, geospatial analysis, mineral-r
 
 ## Dataset
 
-The current release contains **974 mineral occurrence records**.
+The current release contains **1045 mineral occurrence records**.
 
 The principal database is provided as an Excel workbook:
 
@@ -34,19 +34,21 @@ https://ngsa.gov.ng/
 
 ## Database Compilation
 
-The database was compiled and structured by **whoisOlaxtra**.
+## Database Compilation
 
-The compilation process involved:
+The original Excel database was created from scratch by **whoisOlaxtra** using the Nigeria Geological Survey Agency (NGSA) *Mineral Resources Map of Nigeria* (2023) as the source document.
 
-- manual extraction from the PDF map;
-- transcription of occurrence localities;
-- transcription of mineral/resource types;
-- creation of the Excel database structure;
-- comparison/review against the source map;
-- identification of omitted records;
-- addition of missing records;
-- standardisation and organisation;
-- preservation of source codes/terminology where applicable.
+Because the source material was available as a PDF map rather than as a structured spreadsheet, CSV, shapefile, GeoJSON or other machine-readable database, the mineral occurrence information was manually extracted from the map and structured into an Excel database.
+
+The subsequent update involved:
+
+- reviewing the original database against the NGSA 2023 map;
+- checking mineral occurrence localities and resource types represented in the source map;
+- identifying occurrence records not captured in the initial database;
+- adding the missing records to the workbook;
+- retaining the established workbook structure and formatting;
+- preserving source terminology and occurrence codes where applicable; and
+- documenting the source and provenance of the compiled records.
 
 ## Attribution and Ownership
 
