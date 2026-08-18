@@ -174,9 +174,5 @@ The database compilation, structuring, organisation, manual transcription, compl
 
 For detailed source attribution and provenance information, see:
 
-For detailed source attribution and provenance information, see:
-
-For detailed source attribution and provenance information, see:
-
 - [README](../README.md)
 - [NGSA Source](../sources/NGSA_SOURCE.md)
