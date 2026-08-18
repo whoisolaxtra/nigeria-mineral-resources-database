@@ -111,6 +111,44 @@ The database can be incorporated into GIS workflows where a structured tabular r
 
 Users should independently assess the suitability, completeness and positional accuracy of the database for their specific application.
 
+## Version
+
+Version: 1.0.0
+
+Release date: August 2026
+
+## Author / Compiler
+
+whoisOlaxtra
+
+Geospatial & UAV Data Analyst
+
+Nigeria
+
+GitHub: https://github.com/whoisolaxtra
+
+LinkedIn: www.linkedin.com/in/adelanwaolagoke
+
+## Citation
+
+If you use the compiled database, please acknowledge both the original NGSA source and this repository.
+
+**Original source**
+
+Nigeria Geological Survey Agency (NGSA). (2023). Mineral Resources Map of Nigeria.
+
+**Database compilation**
+
+whoisOlaxtra. (2026). Nigeria Mineral Resources Database [2023]. GitHub.
+
+## Disclaimer
+
+This repository is an independent compilation and documentation project. It is not an official publication of the Nigeria Geological Survey Agency.
+
+The inclusion of an occurrence in this database does not constitute confirmation of a commercially exploitable mineral deposit.
+
+For authoritative information, users should consult the Nigeria Geological Survey Agency and its official publications.
+
 ## Repository Structure
 
 The repository is organised to separate the database from its supporting documentation and source information.
