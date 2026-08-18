@@ -16,8 +16,15 @@ The resulting dataset is intended to support GIS, geospatial analysis, mineral-r
 
 The current database contains **974 mineral occurrence records**.
 
-The principal database is provided as an Excel workbook:
+The principal database is provided as an Excel workbook.
 
+**Download the Database**
+
+**Latest stable version: v1.0.0**
+
+**Source:** Nigeria Geological Survey Agency (NGSA), *Mineral Resources Map of Nigeria* (2023).
+
+**Compilation:** whoisOlaxtra.
 `data/Nigeria_Mineral_Resources_Database.xlsx`
 
 The current database contains the records represented in the workbook after the subsequent comparison and update process. The highest `Occurrence_ID` is **1045**; this should not be interpreted as the total number of records because the identifier sequence contains gaps.
