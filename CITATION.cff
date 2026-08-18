@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+
+message: >-
+  If you use this database in research, analysis, mapping, or other work,
+  please cite this repository and acknowledge the Nigeria Geological Survey
+  Agency (NGSA) as the original source of the mineral occurrence information.
+
+title: "Nigeria Mineral Resources Database"
+
+type: dataset
+
+version: "1.0.0"
+
+date-released: 2026-08-18
+
+authors:
+  - name: "whoisOlaxtra"
+
+url: "https://github.com/whoisolaxtra/nigeria-mineral-resources-database"
+
+repository-code: "https://github.com/whoisolaxtra/nigeria-mineral-resources-database"
+
+abstract: >-
+  A structured database of mineral occurrence records in Nigeria compiled from
+  the Nigeria Geological Survey Agency (NGSA) Mineral Resources Map of Nigeria
+  (2023). The database was manually extracted, transcribed, organised and
+  structured from the published PDF map, and subsequently reviewed against the
+  source map to identify and add occurrence records not captured during the
+  initial compilation. The repository documents the source, provenance,
+  methodology and limitations of the resulting dataset.
+
+keywords:
+  - Nigeria
+  - mineral resources
+  - mineral occurrences
+  - geological survey
+  - geospatial data
+  - GIS
+  - mining
+  - mineral resource mapping
+  - NGSA
+
+license: "NOASSERTION"
