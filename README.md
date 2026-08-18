@@ -24,6 +24,14 @@ The principal database is provided as an Excel workbook.
 
 [Download the Nigeria Mineral Resources Database](https://raw.githubusercontent.com/whoisolaxtra/nigeria-mineral-resources-database/main/data/Nigeria_Mineral_Resources_Database.xlsx)
 
+## Dataset DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21997333.svg)](https://doi.org/10.5281/zenodo.21997333)
+
+**Cite this dataset:**  
+
+*https://doi.org/10.5281/zenodo.21997333*
+
 **Source:** Nigeria Geological Survey Agency (NGSA), *Mineral Resources Map of Nigeria* (2023).
 
 **Compilation:** whoisOlaxtra.
