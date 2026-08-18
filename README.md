@@ -34,8 +34,6 @@ https://ngsa.gov.ng/
 
 ## Database Compilation
 
-## Database Compilation
-
 The original Excel database was created from scratch by **whoisOlaxtra** using the Nigeria Geological Survey Agency (NGSA) *Mineral Resources Map of Nigeria* (2023) as the source document.
 
 Because the source material was available as a PDF map rather than as a structured spreadsheet, CSV, shapefile, GeoJSON or other machine-readable database, the mineral occurrence information was manually extracted from the map and structured into an Excel database.
@@ -49,8 +47,6 @@ The subsequent update involved:
 - retaining the established workbook structure and formatting;
 - preserving source terminology and occurrence codes where applicable; and
 - documenting the source and provenance of the compiled records.
-
-## Attribution and Ownership
 
 ## Attribution and Ownership
 
@@ -70,9 +66,22 @@ The database published in this repository is an independently created and struct
 
 ## Data Provenance
 
-The database represents a compiled secondary dataset derived from the NGSA 2023 mineral resources map.
+**whoisOlaxtra** initially created the database through manual extraction and transcription of mineral occurrence localities and resource types presented in the Nigeria Geological Survey Agency (NGSA) *Mineral Resources Map of Nigeria* (2023).
 
-The repository maintains a distinction between:
+The source material was available as a PDF map rather than as a structured spreadsheet, CSV, shapefile, GeoJSON or other machine-readable database. The information represented in the map was therefore manually interpreted and structured into an Excel workbook.
+
+The completed workbook was subsequently reviewed against the NGSA 2023 map to identify occurrence records that were not captured during the initial extraction. The identified records were added to the database while maintaining the established workbook structure and formatting.
+
+The provenance chain is therefore:
+
+**NGSA Mineral Resources Map of Nigeria (2023)**  
+→ **manual extraction and transcription**  
+→ **original Excel database created by whoisOlaxtra**  
+→ **comparison and completeness review against the source map**  
+→ **addition of identified missing records**  
+→ **updated structured database**
+
+The NGSA map remains the external source for the mineral occurrence information represented in the source material. The Excel database and its organisation, structure and compilation are the work of **whoisOlaxtra**.
 
 **Original source**
 
@@ -86,15 +95,19 @@ The database should therefore not be interpreted as an independent geological su
 
 ## Limitations
 
-The database is a structured compilation of mineral occurrence information represented in the source map.
+This database is a structured compilation of mineral occurrence information interpreted from the NGSA Mineral Resources Map of Nigeria (2023).
 
-It should not be interpreted as a statement of current mineral reserves, economic viability, production status, deposit size, grade or commercial potential.
+Because the source material is a map in PDF format, the database is dependent on the information that can be identified and interpreted from the published map. It should therefore not be treated as a replacement for the original NGSA map or for official geological datasets that may subsequently become available.
 
-Users requiring authoritative geological or mineral-resource information should consult the original NGSA publications and datasets.
+The database represents mineral occurrence information and should not be interpreted as a statement of current mineral reserves, deposit size, grade, economic viability, production status or commercial potential.
 
-The spatial representation and terminology of the database are dependent on the information available in the source material.
+The database should also not be interpreted as an independently verified geological survey. Users requiring authoritative or current geological and mineral-resource information should consult the Nigeria Geological Survey Agency and its official publications.
+
+Spatial analysis based on the database should account for the positional and interpretive limitations associated with extracting information from a cartographic source.
 
 ## Repository Structure
+
+The repository is organised to separate the database from its supporting documentation and source information.
 
 ```text
 nigeria-mineral-resources-database/
@@ -104,13 +117,10 @@ nigeria-mineral-resources-database/
 ├── data/
 │   └── Nigeria_Mineral_Resources_Database.xlsx
 │
-├── documentation/
-│   ├── DATA_DICTIONARY.md
-│   ├── DATA_PROVENANCE.md
-│   └── METHODOLOGY.md
-│
 ├── sources/
 │   └── NGSA_SOURCE.md
 │
-├── CITATION.cff
-└── LICENSE
+└── documentation/
+    ├── DATA_DICTIONARY.md
+    ├── DATA_PROVENANCE.md
+    └── METHODOLOGY.md
