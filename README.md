@@ -160,19 +160,3 @@ For authoritative information, users should consult the Nigeria Geological Surve
 ## Repository Structure
 
 The repository is organised to separate the database from its supporting documentation and source information.
-
-```text
-nigeria-mineral-resources-database/
-│
-├── README.md
-│
-├── data/
-│   └── Nigeria_Mineral_Resources_Database.xlsx
-│
-├── sources/
-│   └── NGSA_SOURCE.md
-│
-└── documentation/
-    ├── DATA_DICTIONARY.md
-    ├── DATA_PROVENANCE.md
-    └── METHODOLOGY.md
