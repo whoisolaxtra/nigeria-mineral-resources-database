@@ -52,15 +52,17 @@ The subsequent update involved:
 
 ## Attribution and Ownership
 
-The original mineral occurrence information presented by the NGSA remains attributable to the **Nigeria Geological Survey Agency (NGSA)**.
+## Attribution and Ownership
 
-This repository does **not** claim ownership of the original NGSA map or the underlying source information contained within it.
+The original Excel database was created and structured by **whoisOlaxtra** through manual extraction and organisation of mineral occurrence information presented in the Nigeria Geological Survey Agency (NGSA) *Mineral Resources Map of Nigeria* (2023).
 
-The Excel database was created and structured by whoisOlaxtra through manual extraction and organisation of information presented in the NGSA Mineral Resources Map of Nigeria (2023). NGSA is acknowledged as the original source of the mineral occurrence information represented in the map.
+The author's contribution includes the creation of the workbook structure, manual extraction and transcription of occurrence information from the source map, organisation of the records, subsequent comparison with the source map, identification and addition of missing records, and documentation of the resulting database.
 
-The author's contribution to this repository consists of the compilation, organisation, structuring, cleaning, documentation and publication of the database derived from the cited NGSA source.
+The **Nigeria Geological Survey Agency (NGSA)** is recognised as the original source of the mineral occurrence information depicted on the 2023 map.
 
-When using this database, users should acknowledge both the original NGSA source and this database compilation.
+This repository does not claim ownership of the NGSA map, its cartographic design, or the underlying geological information originating from NGSA.
+
+The database published in this repository is an independently created and structured compilation based on the cited NGSA source.
 
 ### Recommended attribution
 
